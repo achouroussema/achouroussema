@@ -1,6 +1,7 @@
 # Hi 👋, I'm Oussama ACHOUR
 
-A passionate Machine Learning engineer & Data Scientist from Tunisia
+A passionate Machine Learning engineer & Data Scientist from Tunisia ![image](https://github.com/user-attachments/assets/d87adfe1-2ce1-4b0e-8b95-0f357a77698d)
+
 
 ## ⭐ About me
 
