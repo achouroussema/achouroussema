@@ -5,7 +5,7 @@ A passionate and experienced Machine Learning engineer & Data Scientist from Tun
 ## ⭐ About me
 
 - 🎯 I’m currently working on a **AI Taxi Application Project**
-- 💬 Ask me about **AI, Machine Learning, investment and Trading**
+- 💬 Ask me about **AI, Machine Learning, Python, Investment and Trading**
 - 📫 How to reach me: oussama.achour@polytechnicien.tn
 
 ## 🤝 Connect with me
