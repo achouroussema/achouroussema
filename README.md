@@ -45,7 +45,7 @@ A passionate and experienced Machine Learning engineer & Data Scientist from Tun
 
 ## 📬 Contact
 
-Feel free to reach out if you want to collaborate on projects or discuss new technologies!
+Feel free to reach out if you want to collaborate on projects or discuss new technologies!              
 
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:oussama.achour@polytechnicien.tn)
 
